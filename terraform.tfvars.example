@@ -1,0 +1,18 @@
+# Name of the application
+name = ""
+
+# You need to create your own EC2 key first
+ec2_key_name = ""
+
+region     = "us-east-1"
+access_key = ""
+secret_key = ""
+
+# RDS has to have at least 2 availability zones
+availability_zone_1 = "us-east-1a"
+availability_zone_2 = "us-east-1b"
+
+solution_stack_name = "64bit Amazon Linux 2023 v4.0.3 running Go 1"
+
+database_username = ""
+database_password = ""
