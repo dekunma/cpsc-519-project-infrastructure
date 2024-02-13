@@ -10,7 +10,7 @@ And an Elastic Beanstalk environment with:
 - 1 MySQL database
 
 The code in `settings` in `aws_elastic_beanstalk_environment` of `main.tf` was mainly created by importing from an environment I created manually.  
-(Inspired by [This Aritical](https://medium.com/@anasanjaria/tip-for-creating-aws-elastic-beanstalk-environment-using-terraform-7c1acf6bb42d))  
+(Inspired by [This aritical](https://medium.com/@anasanjaria/tip-for-creating-aws-elastic-beanstalk-environment-using-terraform-7c1acf6bb42d))  
 
 ## Usage
 Install terraform on your machine.  
